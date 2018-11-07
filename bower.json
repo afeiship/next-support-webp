@@ -1,0 +1,28 @@
+{
+  "name": "next-support-webp",
+  "version": "0.0.1",
+  "description": "Check if support webp format",
+  "main": "dist/next-support-webp.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-support-webp",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
